@@ -2,6 +2,8 @@
 Nodejs, Vscode editor, Browser
 # Create new Project
 npx create-react-app my-app
+# install project
+npm i
 # run Project
 npm start
 # open Project in Browser
